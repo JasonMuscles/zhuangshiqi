@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d27c3c-2f40-4bc6-b26b-25dd8e094e3a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VI6QsT6Xk143523U4UpVljVFsj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.wjs_04_对有参数无返回值的函数进行装饰">
+    <configuration name="wjs_01_装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_01_装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wjs_02_装饰器(时间)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_02_装饰器作用(统计执行时间).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wjs_03_对没有参数没有返回值的函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_03_对无参数无返回值的函数进行装饰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wjs_04_对有参数无返回值的函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_04_对有参数无返回值的函数进行装饰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wjs_04_对有参数无返回值的函数进行装饰" />
+        <item itemvalue="Python.wjs_02_装饰器(时间)" />
+        <item itemvalue="Python.wjs_03_对没有参数没有返回值的函数进行装饰" />
+        <item itemvalue="Python.wjs_01_装饰器" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d27c3c-2f40-4bc6-b26b-25dd8e094e3a" name="默认更改列表" comment="" />
+      <created>1576928248101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576928248101</updated>
+      <workItem from="1576928249422" duration="5182000" />
+    </task>
+    <task id="LOCAL-00001" summary="装饰器的理解">
+      <created>1576938238912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576938238912</updated>
+    </task>
+    <task id="LOCAL-00002" summary="装饰器的理解">
+      <created>1576939970825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576939970825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="装饰器的理解" />
+    <option name="LAST_COMMIT_MESSAGE" value="装饰器的理解" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1611" y="296" key="CommitChangelistDialog2" timestamp="1576939970736">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="1611" y="296" key="CommitChangelistDialog2/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939970736" />
+    <state width="1062" height="386" key="GridCell.Tab.0.bottom" timestamp="1576939932733">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="1062" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939932733" />
+    <state width="1062" height="386" key="GridCell.Tab.0.center" timestamp="1576939932733">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="1062" height="386" key="GridCell.Tab.0.center/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939932733" />
+    <state width="1062" height="386" key="GridCell.Tab.0.left" timestamp="1576939932732">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="1062" height="386" key="GridCell.Tab.0.left/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939932732" />
+    <state width="1062" height="386" key="GridCell.Tab.0.right" timestamp="1576939932733">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="1062" height="386" key="GridCell.Tab.0.right/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939932733" />
+    <state x="1608" y="437" key="Vcs.Push.Dialog.v2" timestamp="1576939974968">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="1608" y="437" key="Vcs.Push.Dialog.v2/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576939974968" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_01_.coverage" NAME="wjs_01_装饰器 Coverage Results" MODIFIED="1576938187660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_04_.coverage" NAME="wjs_04_对有参数无返回值的函数进行装饰 Coverage Results" MODIFIED="1576939932728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_03_.coverage" NAME="wjs_03_对没有参数没有返回值的函数进行装饰 Coverage Results" MODIFIED="1576939539430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_02___.coverage" NAME="wjs_02_装饰器(时间) Coverage Results" MODIFIED="1576939853034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
