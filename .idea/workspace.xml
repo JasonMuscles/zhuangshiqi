@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d27c3c-2f40-4bc6-b26b-25dd8e094e3a" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/wjs_08_多个装饰器对同一个函数进行装饰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wjs_09_带有参数的装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wjs_10_带有参数的装饰器2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wjs_11_实现mini_frame中的路由功能.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,51 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.wjs_08_多个装饰器对同一个函数进行装饰">
-    <configuration name="wjs_04_对有参数无返回值的函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zhuangshiqi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_04_对有参数无返回值的函数进行装饰.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wjs_05_通过一个装饰器对多个函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="zhuangshiqi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_05_通过一个装饰器对多个函数进行装饰.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.wjs_10_带有参数的装饰器2">
     <configuration name="wjs_06_对不定长函数进行装饰" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="zhuangshiqi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,13 +104,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wjs_09_带有参数的装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_09_带有参数的装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wjs_10_带有参数的装饰器2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhuangshiqi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wjs_10_带有参数的装饰器2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wjs_10_带有参数的装饰器2" />
+        <item itemvalue="Python.wjs_09_带有参数的装饰器" />
         <item itemvalue="Python.wjs_08_多个装饰器对同一个函数进行装饰" />
         <item itemvalue="Python.wjs_07_对有返回值的函数进行装饰" />
         <item itemvalue="Python.wjs_06_对不定长函数进行装饰" />
-        <item itemvalue="Python.wjs_05_通过一个装饰器对多个函数进行装饰" />
-        <item itemvalue="Python.wjs_04_对有参数无返回值的函数进行装饰" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +180,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576928248101</updated>
-      <workItem from="1576928249422" duration="10029000" />
+      <workItem from="1576928249422" duration="10687000" />
+      <workItem from="1577194243092" duration="2212000" />
     </task>
     <task id="LOCAL-00001" summary="装饰器的理解">
       <created>1576938238912</created>
@@ -215,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576944784188</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="装饰器的通用写法">
+      <created>1577016371662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577016371662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,53 +238,73 @@
     <option name="LAST_COMMIT_MESSAGE" value="装饰器的通用写法" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1611" y="310" key="CommitChangelistDialog2" timestamp="1576944784070">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="1611" y="296" key="CommitChangelistDialog2" timestamp="1577016371567">
+      <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1611" y="296" key="CommitChangelistDialog2/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576941359044" />
+    <state x="1611" y="296" key="CommitChangelistDialog2/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577016371567" />
     <state x="1611" y="310" key="CommitChangelistDialog2/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944784070" />
-    <state width="531" height="386" key="GridCell.Tab.0.bottom" timestamp="1576990309197">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state width="531" height="386" key="GridCell.Tab.0.bottom" timestamp="1577197395679">
+      <screen x="0" y="23" width="2560" height="1354" />
     </state>
     <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576940848470" />
+    <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577017101465" />
     <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1351/2560.23.1920.1177@0.23.2560.1351" timestamp="1576990309197" />
+    <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1352/2560.23.1920.1177@0.23.2560.1352" timestamp="1577196326049" />
+    <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1354/2560.23.1920.1177@0.23.2560.1354" timestamp="1577197395679" />
     <state width="531" height="386" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944750282" />
-    <state width="531" height="386" key="GridCell.Tab.0.center" timestamp="1576990309197">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state width="531" height="386" key="GridCell.Tab.0.center" timestamp="1577197395679">
+      <screen x="0" y="23" width="2560" height="1354" />
     </state>
     <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576940848469" />
+    <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577017101465" />
     <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1351/2560.23.1920.1177@0.23.2560.1351" timestamp="1576990309197" />
+    <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1352/2560.23.1920.1177@0.23.2560.1352" timestamp="1577196326049" />
+    <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1354/2560.23.1920.1177@0.23.2560.1354" timestamp="1577197395679" />
     <state width="531" height="386" key="GridCell.Tab.0.center/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944750282" />
-    <state width="531" height="386" key="GridCell.Tab.0.left" timestamp="1576990309196">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state width="531" height="386" key="GridCell.Tab.0.left" timestamp="1577197395678">
+      <screen x="0" y="23" width="2560" height="1354" />
     </state>
     <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576940848469" />
+    <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577017101465" />
     <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1351/2560.23.1920.1177@0.23.2560.1351" timestamp="1576990309196" />
+    <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1352/2560.23.1920.1177@0.23.2560.1352" timestamp="1577196326048" />
+    <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1354/2560.23.1920.1177@0.23.2560.1354" timestamp="1577197395678" />
     <state width="531" height="386" key="GridCell.Tab.0.left/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944750282" />
-    <state width="531" height="386" key="GridCell.Tab.0.right" timestamp="1576990309197">
-      <screen x="0" y="23" width="2560" height="1351" />
+    <state width="531" height="386" key="GridCell.Tab.0.right" timestamp="1577197395679">
+      <screen x="0" y="23" width="2560" height="1354" />
     </state>
     <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576940848470" />
+    <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577017101465" />
     <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1351/2560.23.1920.1177@0.23.2560.1351" timestamp="1576990309197" />
+    <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1352/2560.23.1920.1177@0.23.2560.1352" timestamp="1577196326049" />
+    <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1354/2560.23.1920.1177@0.23.2560.1354" timestamp="1577197395679" />
     <state width="531" height="386" key="GridCell.Tab.0.right/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944750282" />
     <state x="1509" y="336" key="SettingsEditor" timestamp="1577016268848">
       <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1509" y="336" key="SettingsEditor/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577016268848" />
-    <state x="1608" y="458" key="Vcs.Push.Dialog.v2" timestamp="1576944788379">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="1608" y="437" key="Vcs.Push.Dialog.v2" timestamp="1577016376817">
+      <screen x="0" y="23" width="2560" height="1350" />
     </state>
     <state x="1608" y="437" key="Vcs.Push.Dialog.v2/0.23.2560.1349/2560.23.1920.1177@0.23.2560.1349" timestamp="1576941362537" />
+    <state x="1608" y="437" key="Vcs.Push.Dialog.v2/0.23.2560.1350/2560.23.1920.1177@0.23.2560.1350" timestamp="1577016376817" />
     <state x="1608" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417/2560.23.1920.1125@0.23.2560.1417" timestamp="1576944788379" />
+    <state x="1678" y="495" key="git4idea.merge.GitPullDialog" timestamp="1577194252193">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="1678" y="495" key="git4idea.merge.GitPullDialog/0.23.2560.1352/2560.23.1920.1177@0.23.2560.1352" timestamp="1577194252193" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_01_.coverage" NAME="wjs_01_装饰器 Coverage Results" MODIFIED="1576938187660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_05_.coverage" NAME="wjs_05_通过一个装饰器对多个函数进行装饰 Coverage Results" MODIFIED="1576942571117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_06_.coverage" NAME="wjs_06_对不定长函数进行装饰 Coverage Results" MODIFIED="1576943817793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_09_.coverage" NAME="wjs_09_带有参数的装饰器 Coverage Results" MODIFIED="1577197342287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_04_.coverage" NAME="wjs_04_对有参数无返回值的函数进行装饰 Coverage Results" MODIFIED="1576939932728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_07_.coverage" NAME="wjs_07_对有返回值的函数进行装饰 Coverage Results" MODIFIED="1576944750273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_03_.coverage" NAME="wjs_03_对没有参数没有返回值的函数进行装饰 Coverage Results" MODIFIED="1576939539430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_08_.coverage" NAME="wjs_08_多个装饰器对同一个函数进行装饰 Coverage Results" MODIFIED="1576990309191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_02___.coverage" NAME="wjs_02_装饰器(时间) Coverage Results" MODIFIED="1576939853034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhuangshiqi$wjs_10_2.coverage" NAME="wjs_10_带有参数的装饰器2 Coverage Results" MODIFIED="1577197395674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
